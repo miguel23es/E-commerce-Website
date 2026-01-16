@@ -31,8 +31,7 @@ The checkout system is powered by **Node.js** and integrated with the **Stripe A
 ---
 
 ## 🌐 Live Website  
-*(Replace with your actual link)*  
-https://your-website-here.com
+  
 
 ---
 
