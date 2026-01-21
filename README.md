@@ -8,16 +8,35 @@ A personal full-stack e-commerce website for clothing that I built to practice r
 
 <table>
   <tr>
-    <td><img src="images/home.png" width="100%"></td>
-    <td><img src="images/merch.png" width="100%"></td>
-    <td><img src="images/shopping.png" width="100%"></td>
+    <td align="center">
+      <img src="images/home.png" width="100%">
+      <br><b>Home</b>
+    </td>
+    <td align="center">
+      <img src="images/merch.png" width="100%">
+      <br><b>Merch</b>
+    </td>
+    <td align="center">
+      <img src="images/shopping.png" width="100%">
+      <br><b>Shop</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="images/cart.png" width="100%"></td>
-    <td><img src="images/stripe.png" width="100%"></td>
-    <td><img src="images/contact.png" width="100%"></td>
+    <td align="center">
+      <img src="images/cart.png" width="100%">
+      <br><b>Cart</b>
+    </td>
+    <td align="center">
+      <img src="images/stripe.png" width="100%">
+      <br><b>Checkout</b>
+    </td>
+    <td align="center">
+      <img src="images/contact.png" width="100%">
+      <br><b>Contact</b>
+    </td>
   </tr>
 </table>
+
 
 ---
 
