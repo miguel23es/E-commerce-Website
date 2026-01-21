@@ -4,6 +4,23 @@ A personal full-stack e-commerce website for clothing that I built to practice r
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/home.png" width="100%"></td>
+    <td><img src="images/merch.png" width="100%"></td>
+    <td><img src="images/shopping.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="images/cart.png" width="100%"></td>
+    <td><img src="images/stripe.png" width="100%"></td>
+    <td><img src="images/contact.png" width="100%"></td>
+  </tr>
+</table>
+
+---
+
 ## About the Project
 
 This project was built as a personal initiative to deepen my understanding of full-stack web development, backend logic, and third-party API integrations. I focused on creating a smooth user experience on the frontend while implementing a functional and secure checkout flow on the backend.
